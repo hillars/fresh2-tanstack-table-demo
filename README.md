@@ -3,7 +3,7 @@
 A minimal example of Fresh 2, Tailwind, DaisyUI and Tanstack Table (core).
 Tanstack table is used in an island with sample data from a JSON file.
 
-Demo is here https://fresh2-tanstack-table-demo.deno.dev
+Demo is here https://fresh2-tanstack-table-demo.hillars.deno.net/
 
 ### Usage
 
